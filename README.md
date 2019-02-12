@@ -3,7 +3,9 @@
 ### The Article
 
 **Title**: AI can diagnose childhood illnesses better than some doctors
+
 **Author**: Chelsea Whyte
+
 **Publisher**: newsscientist.com
 
 A link for the article can be found [here](https://www.newscientist.com/article/2193361-ai-can-diagnose-childhood-illnesses-better-than-some-doctors/).

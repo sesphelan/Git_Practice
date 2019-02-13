@@ -30,3 +30,6 @@ would lead to a complete dependence on technology.
 In my opinion, technologies like this need to be used in moderation, as an aiding tool to a human doctor. With automation comes a
 great risk that will be hard to undo.  
 
+#### Another Opinion
+
+I thouroughly enjoyed this article. Many advances in Artificial Intelligence and deep learning are fascinating, yet also scary. The question is not whether AI will continue to expand, but rather where is the line drawn between automation and neglectance. Even though machines can do better jobs at humans with statistical data, should machines just be left by themselves to run hostpials? This is just only one question that advances in technology bring up.
